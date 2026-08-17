@@ -175,9 +175,9 @@ export const team = [
 ];
 
 export const contactDetails = {
-  email: "hello@omixalabs.ai",
-  phone: "+1 (555) 014-8621",
-  address: "123 Innovation Drive, Indianapolis, IN",
+  email: "hr@omixalabs.com, info@omixalabs.com",
+  phone: "+15029571332",
+  address: "2325 East Camelback Road, Suite 400, Phoenix, Arizona 85016",
   hours: "Monday to Friday, 9:00 AM - 5:00 PM",
   socials: ["LinkedIn", "X", "GitHub"]
 };
