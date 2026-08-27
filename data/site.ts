@@ -168,10 +168,10 @@ export const roles = [
 }));
 
 export const team = [
-  { name: "Ava Morgan", role: "AI Solutions Lead", bio: "Shapes practical AI strategies and delivery plans for client teams.", image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=900&q=80" },
-  { name: "Daniel Reed", role: "Engineering Director", bio: "Leads software architecture, integrations, and platform reliability.", image: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=900&q=80" },
-  { name: "Maya Chen", role: "Product Designer", bio: "Designs clear, human-centred interfaces for intelligent workflows.", image: "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=900&q=80" },
-  { name: "Delton Tidwell", role: "HR", bio: "Supports hiring, team operations, and employee experience across Omixa Labs.", image: "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=900&q=80" }
+  { name: "Ava Morgan", role: "AI Solutions Lead", bio: "Shapes practical AI strategies and delivery plans for client teams.", image: "/images/team/team-2.png" },
+  { name: "Daniel Reed", role: "Engineering Director", bio: "Leads software architecture, integrations, and platform reliability.", image: "/images/team/team-1.png" },
+  { name: "Maya Chen", role: "Product Designer", bio: "Designs clear, human-centred interfaces for intelligent workflows.", image: "/images/team/team-3.png" },
+  { name: "Delton Tidwell", role: "HR", bio: "Supports hiring, team operations, and employee experience across Omixa Labs.", image: "/images/team/team-4.jpg" }
 ];
 
 export const contactDetails = {
